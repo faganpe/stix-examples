@@ -18,7 +18,7 @@
                 },
                 "1": {
                     "type": "ipv4-addr",
-                    "value": "172.31.88.63",
+                    "value": "210.201.136.170",
                     "x_com_aws_interface_id": "eni-02e70b8e842c70a2f",
                     "x_com_aws_ip_type": "private"
                 },
